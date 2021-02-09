@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132574607021",
+    "project_id": "chut-32dd1",
+    "storage_bucket": "chut-32dd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132574607021:android:f593f97a334ca30f693824",
+        "android_client_info": {
+          "package_name": "com.example.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132574607021-9spo6j2bc20ofts92sujl4dnndflaqfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvVdhbfnGnGytdZdiyMXKMN-3Xp_p6Pcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132574607021-9spo6j2bc20ofts92sujl4dnndflaqfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
